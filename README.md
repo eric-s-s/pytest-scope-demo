@@ -23,6 +23,8 @@ TEST THING
 .
 tests/experiment_one/test_two.py TEST THING
 .
+/home/eric.shaw/tdd_workspace/pytest-scope-demo/tests/experiment_one thing teardown
+
 tests/experiment_two/test_one.py
 /home/eric.shaw/tdd_workspace/pytest-scope-demo/tests/experiment_two thing setup
 TEST THING
@@ -31,8 +33,6 @@ TEST THING
 tests/experiment_two/test_two.py TEST THING
 .
 /home/eric.shaw/tdd_workspace/pytest-scope-demo/tests/experiment_two thing teardown
-
-/home/eric.shaw/tdd_workspace/pytest-scope-demo/tests/experiment_one thing teardown
 
 /home/eric.shaw/tdd_workspace/pytest-scope-demo/tests THANG teardown
 
